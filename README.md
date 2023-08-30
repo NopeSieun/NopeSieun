@@ -16,7 +16,7 @@ I am a student studying computer science.<br>
 ## 📫 Contact to me
 
 <a href="https://www.linkedin.com/in/sieun-ahn-27667b1a5/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.notion.so/HELLO-I-AM-AHN-SIEUN-158bb2e6b0d647e6b20553b0de92e9a0" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.notion.so/HELLO-I-AM-AHN-SIEUN-158bb2e6b0d647e6b20553b0de92e9a0" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="mailto:tldms5505@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## 🛠 Skills & Tools
