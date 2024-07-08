@@ -4,7 +4,7 @@
 
 # Ahn Sieun 
 Hello! Welcome to my Github!<br>
-I am a student studying computer science.<br>
+I am interested in Data analysis / AI Engineering.
 
 
 ## 🎓 Education
