@@ -11,7 +11,7 @@ I am a student studying computer science.<br>
 - Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, 4th Grade
 
 ## 🔭 I’m currently working on ... 
-- HUFS AIM Lab Intern (2022.07~)
+- HUFS AIM Lab Intern (2022.07~2023.12)
 
 ## 📫 Contact to me
 
