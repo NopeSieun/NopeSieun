@@ -1,3 +1,4 @@
+![snake gif](https://github.com/NopeSieun/NopeSieun/blob/output/github-contribution-grid-snake.svg)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thanks%20for%20coming👋&fontSize=50)
 
