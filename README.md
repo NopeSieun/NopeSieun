@@ -47,8 +47,6 @@ I've used at least once. <br>
 </table>  
 
 
-![snake gif](https://github.com/NopeSieun/NopeSieun/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **NopeSieun/NopeSieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
