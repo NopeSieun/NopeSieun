@@ -7,7 +7,7 @@ I am interested in Data analysis / AI Engineering.
 
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering
+- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering (2020.03~2024.08)
 
 ## 🔭 I’m currently working on ... 
 - HUFS AIM Lab Intern (2022.07~2023.12)
