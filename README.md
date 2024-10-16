@@ -15,7 +15,7 @@ I am interested in Data analysis / AI Engineering.
 ## 📫 Contact to me
 
 <a href="https://www.linkedin.com/in/sieun-ahn-27667b1a5/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.notion.so/HELLO-I-AM-AHN-SIEUN-158bb2e6b0d647e6b20553b0de92e9a0" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="[https://www.notion.so/HELLO-I-AM-AHN-SIEUN-158bb2e6b0d647e6b20553b0de92e9a0](https://www.notion.so/HELLO-MY-NAME-IS-AHN-SIEUN-9dae74485bf549c8a2be69fc202c626e)" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="mailto:tldms5505@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## 🛠 Skills & Tools
